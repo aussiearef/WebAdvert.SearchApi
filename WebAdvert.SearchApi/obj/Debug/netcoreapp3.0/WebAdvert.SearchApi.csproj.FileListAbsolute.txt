@@ -1,0 +1,17 @@
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\WebAdvert.SearchApi.exe
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\WebAdvert.SearchApi.deps.json
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\WebAdvert.SearchApi.runtimeconfig.json
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\WebAdvert.SearchApi.runtimeconfig.dev.json
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\WebAdvert.SearchApi.dll
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\WebAdvert.SearchApi.pdb
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdvert.SearchApi.csproj.CoreCompileInputs.cache
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdvert.SearchApi.RazorAssemblyInfo.cache
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdvert.SearchApi.RazorAssemblyInfo.cs
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdvert.SearchApi.AssemblyInfoInputs.cache
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdvert.SearchApi.AssemblyInfo.cs
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdvert.SearchApi.RazorTargetAssemblyInfo.cache
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdvert.SearchApi.dll
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdvert.SearchApi.pdb
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\Elasticsearch.Net.dll
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\Nest.dll
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdvert.SearchApi.csproj.CopyComplete
