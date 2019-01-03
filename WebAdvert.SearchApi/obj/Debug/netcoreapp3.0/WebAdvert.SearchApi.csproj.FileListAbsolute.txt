@@ -15,3 +15,8 @@ C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdv
 C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\Elasticsearch.Net.dll
 C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\Nest.dll
 C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdvert.SearchApi.csproj.CopyComplete
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\obj\Debug\netcoreapp3.0\WebAdvert.SearchApi.csprojAssemblyReference.cache
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\AWS.Logger.AspNetCore.dll
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\AWS.Logger.Core.dll
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\AWSSDK.CloudWatchLogs.dll
+C:\Source\WebAdvert.SearchApi\WebAdvert.SearchApi\bin\Debug\netcoreapp3.0\AWSSDK.Core.dll

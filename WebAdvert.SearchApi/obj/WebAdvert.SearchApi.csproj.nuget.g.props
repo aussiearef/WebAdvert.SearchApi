@@ -16,4 +16,8 @@
     <Import Project="$(NuGetPackageRoot)microsoft.netcore.app\3.0.0-preview-27122-01\build\netcoreapp3.0\Microsoft.NETCore.App.props" Condition="Exists('$(NuGetPackageRoot)microsoft.netcore.app\3.0.0-preview-27122-01\build\netcoreapp3.0\Microsoft.NETCore.App.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.app\3.0.0-preview-18579-0056\build\netcoreapp3.0\Microsoft.AspNetCore.App.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.app\3.0.0-preview-18579-0056\build\netcoreapp3.0\Microsoft.AspNetCore.App.props')" />
   </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\Admin\.nuget\packages\awssdk.core\3.3.17</PkgAWSSDK_Core>
+    <PkgAWSSDK_CloudWatchLogs Condition=" '$(PkgAWSSDK_CloudWatchLogs)' == '' ">C:\Users\Admin\.nuget\packages\awssdk.cloudwatchlogs\3.3.4</PkgAWSSDK_CloudWatchLogs>
+  </PropertyGroup>
 </Project>

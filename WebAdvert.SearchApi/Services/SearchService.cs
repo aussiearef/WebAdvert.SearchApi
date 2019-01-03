@@ -18,7 +18,7 @@ namespace WebAdvert.SearchApi.Services
         {
             var searchResponse = await _client.SearchAsync<AdvertType>(search => search.
                 Query(query => query.
-                    Term(field => field.Title, keyword)
+                    Term(field => field.Title, keyword.ToLower())
                 ));
 
             return searchResponse.Hits.Select(hit => hit.Source).ToList();
