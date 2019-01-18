@@ -9,5 +9,6 @@ namespace WebAdvert.SearchApi.Models
         public string Title { get; set; }
 
         public DateTime CreationDateTime { get; set; }
+		
     }
 }
